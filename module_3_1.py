@@ -27,7 +27,7 @@ def  is_contains(string:str, listing:list):
     
 
 # Установка счетчика вызова функций count_calls() и string_info()
-calls =0
+calls = 0
 
 # Блок вызовов функций и вывода результатов
 print(string_info('Capybara'))
