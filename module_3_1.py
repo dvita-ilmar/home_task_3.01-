@@ -15,7 +15,7 @@ def string_info(string:str):
     upper_string = string.upper()
     lower_string = string.lower()
     count_calls()
-    return (len_string,upper_string,lower_string)
+    return (len_string, upper_string, lower_string)
 
 
 # Функция анализирует строку и список, и возвращает True, если строка находится в этом списке, False - если отсутствует
